@@ -63,11 +63,9 @@
   border: 1px solid lightgrey;
 }
 
-/* .orders-container2 .css-1xnox0e,
-.orders-container2 .css-1bigob2,
-.orders-container2 .order-entries {
-  border: 1px solid rgb(224, 224, 224);
-} */
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  width: 100%;
+}
 
 .order-entries3 {
   width: 220px;
